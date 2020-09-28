@@ -20,3 +20,5 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 I created the password based of the criteria, having the password being displayed in the text area of the website. If user does not follow the rules of the questions of selects no to all criteria, the page will notify the user in the text area. 
+
+https://mkchang16.github.io/Password-Generator/
